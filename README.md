@@ -2,5 +2,5 @@
 ## To use
 `./wechatProcessor.sh before.GIF`
 
-## Prerequisite
+## Prerequirement
 Install [imagemagick](http://www.imagemagick.org/script/binary-releases.php)
